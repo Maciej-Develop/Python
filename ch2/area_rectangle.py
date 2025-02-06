@@ -1,0 +1,6 @@
+print("Welcome!")
+l = input("Enter the lenght of the side of your rectangle : ")
+l = int(l)
+h = input("Enter the height of the side of your rectangle : ")
+h = int(h)
+print("The aera of your rectangle is :", h*l)
