@@ -1,0 +1,6 @@
+print("Welcome!")
+n1 = int(input("Enter a first number : "))
+n2 = int(input("Enter a second number : "))
+n3 = int(input("Enter a third number : "))
+print("min : ", min(n1,n2,n3))
+print("max : ", max(n1,n2,n3))
