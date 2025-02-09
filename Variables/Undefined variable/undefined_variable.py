@@ -1,2 +1,2 @@
-variable = 1
+varable = 1
 print(variable)
