@@ -1,5 +1,3 @@
-# Python
-
 # Introduction to Python course  (JetBrains Academy version) [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 <p>This is an introductory Python course by JetBrains Academy.
   The target audience are the people with little or no experience in programming who

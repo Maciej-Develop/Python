@@ -11,7 +11,7 @@ files:
           offset: 59
         initialized_from_dependency: false
         encrypted_possible_answer: u+cFAeZzK9OC2mZB/JllGg==
-        selected: true
+        selected: false
         status: Solved
       - offset: 97
         length: 15
@@ -21,7 +21,7 @@ files:
           offset: 111
         initialized_from_dependency: false
         encrypted_possible_answer: iDJWooVYTLag9F1TLh3M8g==
-        selected: true
+        selected: false
         status: Solved
       - offset: 138
         length: 19
@@ -63,8 +63,8 @@ files:
         encrypted_possible_answer: iIQhURWxIqFGgqxXdmjr93r99o7gg4HQfUtgVocUcvA=
         selected: false
         status: Solved
-      - offset: 326
-        length: 27
+      - offset: 327
+        length: 26
         placeholder_text: "# raise the multiplication_result to the power of 3"
         initial_state:
           length: 51
@@ -81,5 +81,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 09 Feb 2025 15:06:47 UTC"
+  time: "Sun, 09 Feb 2025 15:35:26 UTC"
 record: -1

@@ -4,17 +4,17 @@ files:
     visible: true
     placeholders:
       - offset: 121
-        length: 16
+        length: 35
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 121
         initialized_from_dependency: false
         encrypted_possible_answer: jtgAkkh96OH29tSMm5OPdislabG0yGa/GYKhuz3kqhQ=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 196
-        length: 23
+      - offset: 215
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
@@ -34,5 +34,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 09 Feb 2025 15:16:00 UTC"
+  time: "Sun, 09 Feb 2025 15:36:26 UTC"
 record: -1

@@ -11,7 +11,7 @@ files:
           offset: 47
         initialized_from_dependency: false
         encrypted_possible_answer: Dte/TD3H1wPQglbhmhSenY1nHZ18fk+oRe1HsKpPyFo=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -24,5 +24,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 09 Feb 2025 15:11:08 UTC"
+  time: "Sun, 09 Feb 2025 15:35:58 UTC"
 record: -1

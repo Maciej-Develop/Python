@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 93
-        length: 19
+        length: 18
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 93
         initialized_from_dependency: false
         encrypted_possible_answer: xYvjV1k29PH2zLAhypBtth6JB800f+kgf+CyS8mbI3A=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/test_task.py
@@ -21,5 +21,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 09 Feb 2025 15:03:47 UTC"
+  time: "Sun, 09 Feb 2025 15:35:04 UTC"
 record: -1
