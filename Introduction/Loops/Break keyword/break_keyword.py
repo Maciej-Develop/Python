@@ -13,5 +13,7 @@ while True:                         # This condition cannot possibly be false
     print(animal)
     # Add the condition to exit the loop
         # Exit the loop
+    if animal == "elephant":
+        break
 
 print(zoo)

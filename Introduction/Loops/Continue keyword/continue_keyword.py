@@ -6,4 +6,6 @@ for i in range(5):
 for x in range(10):
     # Add a condition
         # Add a keyword to skip print(x) for this loop
+    if x % 2 == 0:
+        continue
     print(x)
